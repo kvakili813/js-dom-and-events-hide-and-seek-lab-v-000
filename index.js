@@ -14,7 +14,7 @@ function deepestChild() {
     list = listChild
     listChild = list.children[0]
   }
-  
+
   return list
 }
 
